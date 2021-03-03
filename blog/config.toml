@@ -1,0 +1,6 @@
+baseURL = "https://github.com/Jerry042/academy-blog"
+languageCode = "en-us"
+title = "BLOG"
+themesDir = "themes"
+publishDir = "docs"
+theme = "hugo-html5up-alpha"

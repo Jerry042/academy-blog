@@ -1,0 +1,6 @@
+[submodule "blog/themes/themes/fuji"]
+	path = blog/themes/themes/fuji
+	url = https://github.com/amzrk2/hugo-theme-fuji.git
+[submodule "blog/themes/fuji"]
+	path = blog/themes/fuji
+	url = https://github.com/amzrk2/hugo-theme-fuji.git
